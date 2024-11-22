@@ -2,7 +2,7 @@
 
 Session #3: Git & GitHub
 
-Initializing a Repository on computer
+Initializing a Repository on computer by github combined
 Create a new Git repository: git init
 Create a new branch called main while initializing: git init -b main
 Cloning a Repository
